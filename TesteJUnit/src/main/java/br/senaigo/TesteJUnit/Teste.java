@@ -6,7 +6,7 @@ public class Teste {
 		// TODO Auto-generated method stub
 		double f = new TemperaturaCelsius(5).converteCelsiusParaFahrenheit();
 		System.out.println(f);
-
+		System.out.println("Teste");
 		
 	}
 
