@@ -7,6 +7,7 @@ public class Teste {
 		double f = new TemperaturaCelsius(5).converteCelsiusParaFahrenheit();
 		System.out.println(f);
 
+		
 	}
 
 }
